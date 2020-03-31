@@ -1,1 +1,4 @@
 This is a new File4 created directly in git site.
+
+git clean -n-- it will preview the changes
+xxxxxxxxx
