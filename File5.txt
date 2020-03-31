@@ -1,0 +1,19 @@
+this is File5 created in local repo.
+
+this file created in bugfix repo...
+
+~~~~~~~~~~~~~~~
+changed to master branch and updated
+
+updated this file in master branch...
+~~~~~~~~~~~~~~~~
+changed to bugfix branch and updated
+
+updated this file in bugfix branch...
+this is commit-3
+~~~~~~~~~~~~~~~~
+changed to master branch and updated
+
+updated this file in master branch
+this is commit-4....
+~~~~~~~~~~~~~~~~~~~
