@@ -1,3 +1,5 @@
 File6 is created under master branch
 
 This file created to check the git fetch command...
+~~~~~~~
+this is to check the git merge origin/master
